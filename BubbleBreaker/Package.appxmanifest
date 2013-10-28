@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="4e747be9-a3b1-499d-aaed-3f5f8c226ceb" Publisher="CN=安然" Version="1.0.0.0" />
+  <Properties>
+    <DisplayName>BubbleBreaker</DisplayName>
+    <PublisherDisplayName>安然</PublisherDisplayName>
+    <Logo>Assets\StoreLogo.png</Logo>
+    <Description>BubbleBreaker</Description>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2</OSMinVersion>
+    <OSMaxVersionTested>6.2</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" Executable="$targetnametoken$.exe" EntryPoint="BubbleBreaker.App">
+      <VisualElements DisplayName="BubbleBreaker" Logo="Assets\Logo.png" SmallLogo="Assets\SmallLogo.png" Description="BubbleBreaker" ForegroundText="light" BackgroundColor="#222222">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="Assets\SplashScreen.png" />
+        <InitialRotationPreference>
+          <Rotation Preference="portrait" />
+          <Rotation Preference="landscape" />
+        </InitialRotationPreference>
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>

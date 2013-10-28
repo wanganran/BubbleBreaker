@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANRAN-PC</Machine>
+    <WindowsUser>安然</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>7121AAC1D0E3B710A137493785876180DA5F4A5089C9C7924D88A8994F107E0C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4e747be9-a3b1-499d-aaed-3f5f8c226ceb_1.0.0.0_neutral__xjzem7cem1h5c</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4e747be9-a3b1-499d-aaed-3f5f8c226ceb_xjzem7cem1h5c!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4e747be9-a3b1-499d-aaed-3f5f8c226ceb</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=安然</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-06T04:16:30.528</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\BubbleBreaker.exe">
+      <PackagePath>BubbleBreaker.exe</PackagePath>
+      <Modified>2013-02-06T04:16:30.022</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\BubbleBreaker.pdb">
+      <PackagePath>BubbleBreaker.pdb</PackagePath>
+      <Modified>2013-02-06T04:16:29.995</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\MonoGame.Framework.Windows8.dll">
+      <PackagePath>MonoGame.Framework.Windows8.dll</PackagePath>
+      <Modified>2012-08-20T02:07:04.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+      <Modified>2012-06-09T15:04:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+      <Modified>2012-06-09T15:04:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+      <Modified>2012-06-09T15:04:26.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+      <Modified>2012-06-09T15:04:24.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+      <Modified>2012-06-09T15:04:22.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+      <Modified>2012-06-09T15:04:30.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+      <Modified>2012-06-09T15:04:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-19T03:11:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-19T03:11:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-19T03:11:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-08-19T03:11:18.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-12-21T10:37:28.985</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-12-21T10:47:43.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-12-21T10:37:29.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\StartPage.xaml">
+      <PackagePath>StartPage.xaml</PackagePath>
+      <Modified>2012-12-21T10:37:28.376</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-06T04:16:30.505</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

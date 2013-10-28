@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ANRAN-PC</Machine>
+    <WindowsUser>安然</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\BubbleBreaker.exe">
+      <PackagePath>BubbleBreaker.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\BubbleBreaker.pdb">
+      <PackagePath>BubbleBreaker.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\MonoGame.Framework.Windows8.dll">
+      <PackagePath>MonoGame.Framework.Windows8.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.dll">
+      <PackagePath>SharpDX.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.XAudio2.dll">
+      <PackagePath>SharpDX.XAudio2.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.Direct3D11.dll">
+      <PackagePath>SharpDX.Direct3D11.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.Direct2D1.dll">
+      <PackagePath>SharpDX.Direct2D1.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.DXGI.dll">
+      <PackagePath>SharpDX.DXGI.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.MediaFoundation.dll">
+      <PackagePath>SharpDX.MediaFoundation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Lib\SharpDX.XInput.dll">
+      <PackagePath>SharpDX.XInput.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\StartPage.xaml">
+      <PackagePath>StartPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="H:\projects\vs projects\BubbleBreaker\BubbleBreaker\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
